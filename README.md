@@ -29,3 +29,14 @@ Recorrido inorden:
 
 Buscar número: 10
 El número SI existe
+
+## Capturas 
+
+
+
+# Menú en consola
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 201709" src="https://github.com/user-attachments/assets/0abb68fe-5eea-4cbd-80bd-984560134aa8" />
+
+Inserción de datos
+Recorrido inorden
+Búsqueda
