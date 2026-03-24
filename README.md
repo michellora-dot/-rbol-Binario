@@ -44,3 +44,4 @@ El número SI existe
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 201952" src="https://github.com/user-attachments/assets/a50d5a44-da0e-4ee1-985b-8e6c6de6c826" />
 
 # Búsqueda
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 202046" src="https://github.com/user-attachments/assets/cb2a4e1f-24e1-481b-b487-55bbe0b2e007" />
