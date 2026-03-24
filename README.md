@@ -38,5 +38,7 @@ El número SI existe
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 201709" src="https://github.com/user-attachments/assets/0abb68fe-5eea-4cbd-80bd-984560134aa8" />
 
 Inserción de datos
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 201809" src="https://github.com/user-attachments/assets/9b3241c9-3fed-4728-9fd0-a3bf845f3f87" />
+
 Recorrido inorden
 Búsqueda
