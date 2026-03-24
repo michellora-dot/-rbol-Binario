@@ -45,3 +45,7 @@ El número SI existe
 
 # Búsqueda
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-23 202046" src="https://github.com/user-attachments/assets/cb2a4e1f-24e1-481b-b487-55bbe0b2e007" />
+
+
+## Integrantes
+- Michel Stiven Lora Ramirez
